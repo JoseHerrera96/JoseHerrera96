@@ -2,10 +2,10 @@
 <h3 align="center">A Software Developer</h3>
 
 <ul>
-	<li><h4>🌱 I’m currently learning **SQL, RV32I</h4></li>
+	<li><h4>🌱 I’m currently learning SQL, RV32I</h4></li>
 	<li><h4>💬 Ask me about VHDL, C++, Python, LTSpice, Zone3</h4></li>
 	<li><h4>📫 How to reach me joseherrera_96@hotmail.com</h4></li>
-	<li><h4>📄 Know about my experiences [www.linkedin.com/in/joseherrera96]</h4></li>
+	<li><h4>📄 Know about my experiences www.linkedin.com/in/joseherrera96</h4></li>
 </ul>
 
 <h3 align="left">Featured projects:</h3>
