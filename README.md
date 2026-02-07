@@ -11,13 +11,13 @@
 
 <h3 align="left">Featured projects:</h3>
 
-- [RISCV-Unycicle](https://github.com/JoseHerrera96/RISCV-Unycicle): Procesador RISC‑V uniciclo (rv32i) en SystemVerilog, con testbenches, simulación RTL/GLS, síntesis (Yosys/OpenSTA) y entorno Docker.
-- [powertrace-telemetry-analyzer](https://github.com/JoseHerrera96/powertrace-telemetry-analyzer): Analizador sencillo para detectar y visualizar puntos calientes en imágenes térmicas o simuladas
-- [teaEncrypt](https://github.com/JoseHerrera96/teaEncrypt): Implementación del cifrado TEA (Tiny Encryption Algorithm) en RISC-V con simulación de hardware LiteX. Proyecto educativo del curso Diseño de Sistemas Digitales con entorno containerizado Docker.
-- [Thermal-Management-System-Simulator](https://github.com/JoseHerrera96/Thermal-Management-System-Simulator): Is a real-time thermal management simulator for high-performance processors. It models the interaction between a CPU and its cooling system, using a hysteresis-based control algorithm to dynamicall…
-- [Embedded-Thermal-Management-System](https://github.com/JoseHerrera96/Embedded-Thermal-Management-System): Este proyecto es un sistema de control térmico de lazo cerrado diseñado para simular la gestión de temperatura en un procesador o sistema crítico.
-- [Smart-Power-Manager](https://github.com/JoseHerrera96/Smart-Power-Manager): gestor de energía donde el software toma decisiones dinámicas según el Power Budge
-- [CRC32-in-Litex](https://github.com/JoseHerrera96/CRC32-in-Litex): Este proyecto implementa un sistema para calcular el CRC32 de textos de entrada de hasta 30 caracteres. El cálculo del CRC32 se realiza utilizando un algoritmo implementado en lenguaje ensamblador …
+- [RISCV-Unycicle](https://github.com/JoseHerrera96/RISCV-Unycicle): Single-cycle RISC-V (RV32I) processor in SystemVerilog with testbenches, RTL/GLS simulation, synthesis (Yosys/OpenSTA), and a Docker environment.
+- [powertrace-telemetry-analyzer](https://github.com/JoseHerrera96/powertrace-telemetry-analyzer): Simple analyzer to detect and visualize hotspots in thermal or simulated images.
+- [teaEncrypt](https://github.com/JoseHerrera96/teaEncrypt): TEA (Tiny Encryption Algorithm) implementation on RISC-V with LiteX hardware simulation. Educational project for a Digital Systems Design course with a Docker containerized environment.
+- [Thermal-Management-System-Simulator](https://github.com/JoseHerrera96/Thermal-Management-System-Simulator): Real-time thermal management simulator for high-performance processors. Models CPU and cooling system interaction using a hysteresis-based control algorithm for dynamic control.
+- [Embedded-Thermal-Management-System](https://github.com/JoseHerrera96/Embedded-Thermal-Management-System): Closed-loop thermal control system to simulate temperature management in a processor or critical system.
+- [Smart-Power-Manager](https://github.com/JoseHerrera96/Smart-Power-Manager): Power manager where software makes dynamic decisions based on the power budget.
+- [CRC32-in-Litex](https://github.com/JoseHerrera96/CRC32-in-Litex): Implements a system to compute CRC32 for input texts up to 30 characters, using an assembly-language algorithm.
 
 </p>
 
