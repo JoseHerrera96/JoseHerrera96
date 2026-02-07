@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **SQL, RV32I**
 
-- 💬 Ask me about **Verilog, C++, Python, Power BI, Zone3**
+- 💬 Ask me about **VHDL, C++, Python, LTSpice, Zone3**
 
 - 📫 How to reach me **joseherrera_96@hotmail.com**
 
