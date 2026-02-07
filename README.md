@@ -5,6 +5,8 @@
 
 - 💬 Ask me about **Verilog, C++, Python, Power BI, Zone3**
 
+- 📫 How to reach me **joseherrera_96@hotmail.com**
+
 - 📄 Know about my experiences [www.linkedin.com/in/joseherrera96](www.linkedin.com/in/joseherrera96)
 
 <h3 align="left">Featured projects:</h3>
@@ -17,10 +19,6 @@
 - [Smart-Power-Manager](https://github.com/JoseHerrera96/Smart-Power-Manager)
 - [CRC32-in-Litex](https://github.com/JoseHerrera96/CRC32-in-Litex)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-	<a href="https://www.linkedin.com/in/joseherrera96" target="_blank" rel="noreferrer">LinkedIn</a><br />
-	<a href="mailto:joseherrera_96@hotmail.com">joseherrera_96@hotmail.com</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
