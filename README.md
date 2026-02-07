@@ -9,6 +9,16 @@
 
 - 📄 Know about my experiences [www.linkedin.com/in/joseherrera96](www.linkedin.com/in/joseherrera96)
 
+<h3 align="left">Featured projects:</h3>
+
+- [RISCV-Unycicle](https://github.com/JoseHerrera96/RISCV-Unycicle)
+- [powertrace-telemetry-analyzer](https://github.com/JoseHerrera96/powertrace-telemetry-analyzer)
+- [teaEncrypt](https://github.com/JoseHerrera96/teaEncrypt)
+- [Thermal-Management-System-Simulator](https://github.com/JoseHerrera96/Thermal-Management-System-Simulator)
+- [Embedded-Thermal-Management-System](https://github.com/JoseHerrera96/Embedded-Thermal-Management-System)
+- [Smart-Power-Manager](https://github.com/JoseHerrera96/Smart-Power-Manager)
+- [CRC32-in-Litex](https://github.com/JoseHerrera96/CRC32-in-Litex)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
