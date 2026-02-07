@@ -5,8 +5,6 @@
 
 - 💬 Ask me about **Verilog, C++, Python, Power BI, Zone3**
 
-- 📫 How to reach me **joseherrera_96@hotmail.com**
-
 - 📄 Know about my experiences [www.linkedin.com/in/joseherrera96](www.linkedin.com/in/joseherrera96)
 
 <h3 align="left">Featured projects:</h3>
